@@ -179,7 +179,7 @@ run.bat файл запуска (опционально)
 Контакты
 
 
-GitHub: https://github.com/ilabol/OmniTerminal
+GitHub: https://github.com/ilabolAfk/OmniTerminal
 
 
 
